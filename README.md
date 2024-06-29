@@ -1,1 +1,1 @@
-# Multinomial-Naive-Bayes
+# Email spam classification Class Multinomial-Naive-Bayes
